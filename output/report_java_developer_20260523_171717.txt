@@ -1,0 +1,106 @@
+======================================================================
+RESUME SCREENING REPORT — JAVA DEVELOPER
+Generated : 2026-05-23 17:17
+Required skills identified in JD: 13
+  -> agile, aws, azure, docker, git, java, kubernetes, microservices, problem solving, rest api, scrum, spring  (+1 more)
+======================================================================
+
+Rank #1  |  ID: 83816738  |  Category: INFORMATION-TECHNOLOGY
+  Final score    : 0.4225  [Fair]
+  Cosine match   : 0.2426   (language/context similarity)
+  Skill match    : 0.6923   (required skills coverage)
+  Skill coverage : 9/13 required skills present
+  Matched skills : agile, aws, git, java, microservices, problem solving, scrum, spring  (+1 more)
+  Missing skills : azure, docker, kubernetes, rest api
+  Recommendation : REVIEW    — Partial match. May suit junior role or adjacent position.
+  ──────────────────────────────────────────────────────────────────
+
+Rank #2  |  ID: 21297521  |  Category: BANKING
+  Final score    : 0.4108  [Fair]
+  Cosine match   : 0.1718   (language/context similarity)
+  Skill match    : 0.7692   (required skills coverage)
+  Skill coverage : 10/13 required skills present
+  Matched skills : agile, aws, azure, docker, git, java, kubernetes, problem solving  (+2 more)
+  Missing skills : microservices, rest api, spring
+  Recommendation : REVIEW    — Partial match. May suit junior role or adjacent position.
+  ──────────────────────────────────────────────────────────────────
+
+Rank #3  |  ID: 23464505  |  Category: AVIATION
+  Final score    : 0.3156  [Fair]
+  Cosine match   : 0.1671   (language/context similarity)
+  Skill match    : 0.5385   (required skills coverage)
+  Skill coverage : 7/13 required skills present
+  Matched skills : agile, aws, git, java, scrum, spring, sql
+  Missing skills : azure, docker, kubernetes, microservices, problem solving, rest api
+  Recommendation : REVIEW    — Partial match. May suit junior role or adjacent position.
+  ──────────────────────────────────────────────────────────────────
+
+Rank #4  |  ID: 22351830  |  Category: CONSULTANT
+  Final score    : 0.2433  [Weak]
+  Cosine match   : 0.1491   (language/context similarity)
+  Skill match    : 0.3846   (required skills coverage)
+  Skill coverage : 5/13 required skills present
+  Matched skills : agile, git, java, scrum, spring
+  Missing skills : aws, azure, docker, kubernetes, microservices, problem solving, rest api, sql
+  Recommendation : PASS      — Weak alignment with this specific role.
+  ──────────────────────────────────────────────────────────────────
+
+Rank #5  |  ID: 85101052  |  Category: DESIGNER
+  Final score    : 0.2246  [Weak]
+  Cosine match   : 0.1179   (language/context similarity)
+  Skill match    : 0.3846   (required skills coverage)
+  Skill coverage : 5/13 required skills present
+  Matched skills : agile, git, java, spring, sql
+  Missing skills : aws, azure, docker, kubernetes, microservices, problem solving, rest api, scrum
+  Recommendation : PASS      — Weak alignment with this specific role.
+  ──────────────────────────────────────────────────────────────────
+
+Rank #6  |  ID: 51588273  |  Category: ENGINEERING
+  Final score    : 0.2057  [Weak]
+  Cosine match   : 0.1378   (language/context similarity)
+  Skill match    : 0.3077   (required skills coverage)
+  Skill coverage : 4/13 required skills present
+  Matched skills : agile, java, scrum, sql
+  Missing skills : aws, azure, docker, git, kubernetes, microservices, problem solving, rest api  (+1 more)
+  Recommendation : PASS      — Weak alignment with this specific role.
+  ──────────────────────────────────────────────────────────────────
+
+Rank #7  |  ID: 43311839  |  Category: CONSULTANT
+  Final score    : 0.2051  [Weak]
+  Cosine match   : 0.1368   (language/context similarity)
+  Skill match    : 0.3077   (required skills coverage)
+  Skill coverage : 4/13 required skills present
+  Matched skills : agile, java, scrum, sql
+  Missing skills : aws, azure, docker, git, kubernetes, microservices, problem solving, rest api  (+1 more)
+  Recommendation : PASS      — Weak alignment with this specific role.
+  ──────────────────────────────────────────────────────────────────
+
+Rank #8  |  ID: 11813872  |  Category: AGRICULTURE
+  Final score    : 0.1970  [Weak]
+  Cosine match   : 0.1233   (language/context similarity)
+  Skill match    : 0.3077   (required skills coverage)
+  Skill coverage : 4/13 required skills present
+  Matched skills : agile, aws, java, sql
+  Missing skills : azure, docker, git, kubernetes, microservices, problem solving, rest api, scrum  (+1 more)
+  Recommendation : PASS      — Weak alignment with this specific role.
+  ──────────────────────────────────────────────────────────────────
+
+Rank #9  |  ID: 98300955  |  Category: HEALTHCARE
+  Final score    : 0.1960  [Weak]
+  Cosine match   : 0.1216   (language/context similarity)
+  Skill match    : 0.3077   (required skills coverage)
+  Skill coverage : 4/13 required skills present
+  Matched skills : agile, java, scrum, sql
+  Missing skills : aws, azure, docker, git, kubernetes, microservices, problem solving, rest api  (+1 more)
+  Recommendation : PASS      — Weak alignment with this specific role.
+  ──────────────────────────────────────────────────────────────────
+
+Rank #10  |  ID: 27152464  |  Category: ENGINEERING
+  Final score    : 0.1953  [Weak]
+  Cosine match   : 0.1204   (language/context similarity)
+  Skill match    : 0.3077   (required skills coverage)
+  Skill coverage : 4/13 required skills present
+  Matched skills : agile, git, scrum, sql
+  Missing skills : aws, azure, docker, java, kubernetes, microservices, problem solving, rest api  (+1 more)
+  Recommendation : PASS      — Weak alignment with this specific role.
+  ──────────────────────────────────────────────────────────────────

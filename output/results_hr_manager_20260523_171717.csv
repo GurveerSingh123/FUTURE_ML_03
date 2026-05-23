@@ -1,0 +1,11 @@
+rank,ID,Category,cosine_score,skill_score,final_score,matched_skills,missing_skills
+1,30862904,HR,0.243,0.6667,0.4125,communication; compensation; leadership; onboarding; organizational development; performance management; recruitment; talent acquisition,hris; labor law; sap; workday
+2,30563572,HR,0.2187,0.6667,0.3979,communication; compensation; hris; leadership; performance management; recruitment; talent acquisition; workday,labor law; onboarding; organizational development; sap
+3,17855844,HR,0.1998,0.6667,0.3866,communication; compensation; hris; leadership; organizational development; performance management; recruitment; sap,labor law; onboarding; talent acquisition; workday
+4,16244633,ARTS,0.1858,0.6667,0.3782,communication; compensation; hris; labor law; onboarding; organizational development; performance management; recruitment,leadership; sap; talent acquisition; workday
+5,18827609,HR,0.179,0.6667,0.3741,communication; compensation; hris; leadership; onboarding; recruitment; talent acquisition; workday,labor law; organizational development; performance management; sap
+6,23510685,HR,0.1784,0.6667,0.3737,communication; compensation; hris; leadership; organizational development; performance management; recruitment; sap,labor law; onboarding; talent acquisition; workday
+7,28175164,HR,0.1727,0.6667,0.3703,compensation; hris; labor law; leadership; organizational development; performance management; recruitment; sap,communication; onboarding; talent acquisition; workday
+8,17412079,HR,0.1953,0.5833,0.3505,compensation; hris; leadership; organizational development; performance management; recruitment; sap,communication; labor law; onboarding; talent acquisition; workday
+9,44476983,HR,0.1887,0.5833,0.3466,communication; hris; leadership; organizational development; performance management; recruitment; talent acquisition,compensation; labor law; onboarding; sap; workday
+10,18316239,HR,0.1799,0.5833,0.3413,communication; compensation; hris; onboarding; organizational development; performance management; recruitment,labor law; leadership; sap; talent acquisition; workday

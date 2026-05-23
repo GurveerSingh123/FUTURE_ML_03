@@ -1,0 +1,106 @@
+======================================================================
+RESUME SCREENING REPORT — HR MANAGER
+Generated : 2026-05-23 17:17
+Required skills identified in JD: 12
+  -> communication, compensation, hris, labor law, leadership, onboarding, organizational development, performance management, recruitment, sap, talent acquisition, workday
+======================================================================
+
+Rank #1  |  ID: 30862904  |  Category: HR
+  Final score    : 0.4125  [Fair]
+  Cosine match   : 0.2430   (language/context similarity)
+  Skill match    : 0.6667   (required skills coverage)
+  Skill coverage : 8/12 required skills present
+  Matched skills : communication, compensation, leadership, onboarding, organizational development, performance management, recruitment, talent acquisition
+  Missing skills : hris, labor law, sap, workday
+  Recommendation : REVIEW    — Partial match. May suit junior role or adjacent position.
+  ──────────────────────────────────────────────────────────────────
+
+Rank #2  |  ID: 30563572  |  Category: HR
+  Final score    : 0.3979  [Fair]
+  Cosine match   : 0.2187   (language/context similarity)
+  Skill match    : 0.6667   (required skills coverage)
+  Skill coverage : 8/12 required skills present
+  Matched skills : communication, compensation, hris, leadership, performance management, recruitment, talent acquisition, workday
+  Missing skills : labor law, onboarding, organizational development, sap
+  Recommendation : REVIEW    — Partial match. May suit junior role or adjacent position.
+  ──────────────────────────────────────────────────────────────────
+
+Rank #3  |  ID: 17855844  |  Category: HR
+  Final score    : 0.3866  [Fair]
+  Cosine match   : 0.1998   (language/context similarity)
+  Skill match    : 0.6667   (required skills coverage)
+  Skill coverage : 8/12 required skills present
+  Matched skills : communication, compensation, hris, leadership, organizational development, performance management, recruitment, sap
+  Missing skills : labor law, onboarding, talent acquisition, workday
+  Recommendation : REVIEW    — Partial match. May suit junior role or adjacent position.
+  ──────────────────────────────────────────────────────────────────
+
+Rank #4  |  ID: 16244633  |  Category: ARTS
+  Final score    : 0.3782  [Fair]
+  Cosine match   : 0.1858   (language/context similarity)
+  Skill match    : 0.6667   (required skills coverage)
+  Skill coverage : 8/12 required skills present
+  Matched skills : communication, compensation, hris, labor law, onboarding, organizational development, performance management, recruitment
+  Missing skills : leadership, sap, talent acquisition, workday
+  Recommendation : REVIEW    — Partial match. May suit junior role or adjacent position.
+  ──────────────────────────────────────────────────────────────────
+
+Rank #5  |  ID: 18827609  |  Category: HR
+  Final score    : 0.3741  [Fair]
+  Cosine match   : 0.1790   (language/context similarity)
+  Skill match    : 0.6667   (required skills coverage)
+  Skill coverage : 8/12 required skills present
+  Matched skills : communication, compensation, hris, leadership, onboarding, recruitment, talent acquisition, workday
+  Missing skills : labor law, organizational development, performance management, sap
+  Recommendation : REVIEW    — Partial match. May suit junior role or adjacent position.
+  ──────────────────────────────────────────────────────────────────
+
+Rank #6  |  ID: 23510685  |  Category: HR
+  Final score    : 0.3737  [Fair]
+  Cosine match   : 0.1784   (language/context similarity)
+  Skill match    : 0.6667   (required skills coverage)
+  Skill coverage : 8/12 required skills present
+  Matched skills : communication, compensation, hris, leadership, organizational development, performance management, recruitment, sap
+  Missing skills : labor law, onboarding, talent acquisition, workday
+  Recommendation : REVIEW    — Partial match. May suit junior role or adjacent position.
+  ──────────────────────────────────────────────────────────────────
+
+Rank #7  |  ID: 28175164  |  Category: HR
+  Final score    : 0.3703  [Fair]
+  Cosine match   : 0.1727   (language/context similarity)
+  Skill match    : 0.6667   (required skills coverage)
+  Skill coverage : 8/12 required skills present
+  Matched skills : compensation, hris, labor law, leadership, organizational development, performance management, recruitment, sap
+  Missing skills : communication, onboarding, talent acquisition, workday
+  Recommendation : REVIEW    — Partial match. May suit junior role or adjacent position.
+  ──────────────────────────────────────────────────────────────────
+
+Rank #8  |  ID: 17412079  |  Category: HR
+  Final score    : 0.3505  [Fair]
+  Cosine match   : 0.1953   (language/context similarity)
+  Skill match    : 0.5833   (required skills coverage)
+  Skill coverage : 7/12 required skills present
+  Matched skills : compensation, hris, leadership, organizational development, performance management, recruitment, sap
+  Missing skills : communication, labor law, onboarding, talent acquisition, workday
+  Recommendation : REVIEW    — Partial match. May suit junior role or adjacent position.
+  ──────────────────────────────────────────────────────────────────
+
+Rank #9  |  ID: 44476983  |  Category: HR
+  Final score    : 0.3466  [Fair]
+  Cosine match   : 0.1887   (language/context similarity)
+  Skill match    : 0.5833   (required skills coverage)
+  Skill coverage : 7/12 required skills present
+  Matched skills : communication, hris, leadership, organizational development, performance management, recruitment, talent acquisition
+  Missing skills : compensation, labor law, onboarding, sap, workday
+  Recommendation : REVIEW    — Partial match. May suit junior role or adjacent position.
+  ──────────────────────────────────────────────────────────────────
+
+Rank #10  |  ID: 18316239  |  Category: HR
+  Final score    : 0.3413  [Fair]
+  Cosine match   : 0.1799   (language/context similarity)
+  Skill match    : 0.5833   (required skills coverage)
+  Skill coverage : 7/12 required skills present
+  Matched skills : communication, compensation, hris, onboarding, organizational development, performance management, recruitment
+  Missing skills : labor law, leadership, sap, talent acquisition, workday
+  Recommendation : REVIEW    — Partial match. May suit junior role or adjacent position.
+  ──────────────────────────────────────────────────────────────────
